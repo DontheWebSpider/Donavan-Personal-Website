@@ -53,14 +53,21 @@ a:hover {
   position: absolute;
   right: 300px;
   top: 50px;
+  width:120px;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 300px;
   bottom: 300px;
+  width:120px;
 }
 
+.mountain {
+  position: relative;
+  top: 132px;
+  width: 600px;
+}
 .profile {
   width: 50%;
   margin: 100px auto 100px auto;
